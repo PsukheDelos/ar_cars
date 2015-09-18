@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cube_scaled" size="500.000000 500.000000" />
+    <ImageTarget name="PublicEnemy" size="500.000000 500.000000" />
+    <ImageTarget name="FoxhoundJpeg" size="500.000000 511.235962" />
+    <ImageTarget name="Target_Test_AR" size="512.000000 512.000000" />
+  </Tracking>
+</QCARConfig>
